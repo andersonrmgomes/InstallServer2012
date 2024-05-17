@@ -1,5 +1,5 @@
 ## Instalando o Windows Server 2012
-
+-
 Este guia detalhado irá te ajudar a instalar o Windows Server 2012 em um ambiente físico ou virtual.
 
 **Requisitos:**
